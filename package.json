@@ -1,0 +1,13 @@
+{
+  "name": "simple-git-workflow",
+  "version": "1.0.0",
+  "description": "Simple for testing git workflow",
+  "main": "index.js",
+  "repository": "git@github.com:henry0hai/simple-git-workflow.git",
+  "author": "henryhai <henryhaiwork@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node ./"
+  }
+}

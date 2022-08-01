@@ -13,7 +13,7 @@ const minusFunc = (num1, num2) => {
 
 console.log(hello);
 
-console.log(`${num1} + ${num2} = ${addFunc(num2, num1)}`);
+console.log(`${num1} + ${num2} = ${addFunc(num1, num2)}`);
 
 console.log(`${num1} - ${num2} = ${minusFunc(num1, num2)}`);
 
